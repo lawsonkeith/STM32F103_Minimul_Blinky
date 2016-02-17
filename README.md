@@ -4,14 +4,14 @@ Program using a STM32 programemr off ebay.
 
 http://www.rogerclark.net/stm32-boards-on-ebay-with-arduino-in-their-description/
 
-Pins
------
-3.3V
-GND
-SWCLK
-SWDIO
+|Pins
+|-----
+|3.3V
+|GND
+|SWCLK
+|SWDIO
 
-Jumpers
--------
-Boot 0 off
-Boot 1 NC
+|Jumpers
+|-------
+|Boot 0 off
+|Boot 1 NC
